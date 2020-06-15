@@ -11,3 +11,4 @@
 <p>Piotr Prusik - responsible for database, start screen and all graphics</p>
 <p>Sebastian Muraszewski - responsible for backend, especially quiz and learn modules</p>
 <p>Screenshots: https://imgur.com/a/o0cx6vY </p>
+<p>APK file: https://www.mediafire.com/file/hoz85v08keavfaz/busdrivingtest.apk/file </p>
