@@ -9,5 +9,5 @@
 <p><b>Learn mode:</b> user get access to 150 questions and immediate output.</p>
 <p><b>Test mode:</b> 30 random questions, user has to answer for 25 points to pass the test.</p>
 <p>Piotr Prusik - responsible for database, start screen and all graphics</p>
-<p>Sebastian Muraszewski</p> - responsible for backend, especially quiz and learn modules</p>
+<p>Sebastian Muraszewski - responsible for backend, especially quiz and learn modules</p>
 <p>Screenshots: https://imgur.com/a/o0cx6vY </p>
